@@ -1,7 +1,7 @@
 ---
 import "../styles/base.css";
 
-const { title = "", description = "" } = Astro.props;
+const { title = "IntakeNomNom", description = "" } = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -17,8 +17,7 @@ const { title = "", description = "" } = Astro.props;
 		<meta charset="utf-8" />
 		<meta name="description" content={description} />
 		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
-		<!-- TODO Define your color theme in hex here -->
-		<meta name="theme-color" content="" />
+		<meta name="theme-color" content="#0A4296" />
 		<meta name="format-detection" content="telephone=no" />
 		<meta name="twitter:dnt" content="on" />
 
@@ -41,10 +40,8 @@ const { title = "", description = "" } = Astro.props;
 
 		<!-- Favicon -->
 	</head>
-
 	<body>
-		<!-- TODO Generate the ID here -->
-		<div id="">
+		<div id="intakenomnom-web">
 			<div class="grow">
 				<slot />
 			</div>

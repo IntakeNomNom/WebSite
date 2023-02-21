@@ -1,8 +1,8 @@
 {
-	"background_color": "",
-	"theme_color": "",
-	"name": "",
-	"short_name": "",
+	"background_color": "#0A4296",
+	"theme_color": "#0A4296",
+	"name": "IntakeNomNom",
+	"short_name": "intakenomnom",
 	"display": "minimal-ui",
 	"start_url": "/",
 	"categories": [],

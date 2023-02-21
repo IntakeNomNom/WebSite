@@ -1,14 +1,13 @@
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-	apiKey: "", // TODO Replace with your API key
-	appId: "", // TODO Replace with your app ID
-	authDomain: "", // TODO Replace with your auth domain
-	databaseURL: "", // TODO Replace with your database URL
-	measurementId: "", // TODO Replace with your measurement ID
-	messagingSenderId: "", // TODO Replace with your messaging sender ID
-	projectId: "", // TODO Replace with your project ID
-	storageBucket: "", // TODO Replace with your storage bucket
+	apiKey: "AIzaSyDpn058kd0BegNgWJQfu4-Ic3uPcxOo8Ds",
+	appId: "1:202279542282:web:bf1170d8ad82adca2f49f3",
+	authDomain: "intakenomnom.firebaseapp.com",
+	measurementId: "G-26MC2VW3GM",
+	messagingSenderId: "202279542282",
+	projectId: "intakenomnom",
+	storageBucket: "intakenomnom.appspot.com",
 };
 
 initializeApp(firebaseConfig);
