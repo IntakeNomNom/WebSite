@@ -1,16 +1,16 @@
 {
 	"name": "intakenomnom-web",
 	"version": "0.0.1",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/intakenomnom/intakenomnom.com.git"
-	},
+	"private": true,
 	"homepage": "https://github.com/intakenomnom/intakenomnom.com#readme",
 	"bugs": {
 		"url": "https://github.com/intakenomnom/intakenomnom.com/issues"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/intakenomnom/intakenomnom.com.git"
+	},
 	"license": "MIT",
-	"private": true,
 	"scripts": {
 		"build": "astro check && astro build",
 		"start": "astro dev"
