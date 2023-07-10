@@ -6,5 +6,10 @@
 	"orientation": "landscape",
 	"short_name": "intakenomnom",
 	"start_url": "/",
+<<<<<<< HEAD
 	"theme_color": "#0A4296"
 }
+=======
+	"theme_color": "// TODO Use the same theme color from template.html"
+}
+>>>>>>> upstream/main
