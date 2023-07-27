@@ -13,7 +13,11 @@
 	},
 	"repository": {
 		"type": "git",
+<<<<<<< HEAD
 		"url": "git+https://github.com/intakenomnom/intakenomnom.com.git"
+=======
+		"url": "git+https://github.com/Lightrix/astro-starter-template.git"
+>>>>>>> upstream/main
 	},
 	"license": "MIT",
 	"scripts": {
