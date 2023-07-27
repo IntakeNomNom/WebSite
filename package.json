@@ -13,7 +13,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/intakenomnom/intakenomnom.com.git"
+		"url": "git+https://github.com/intakenomnom/intakenomnom.com.git"
 	},
 	"license": "MIT",
 	"scripts": {
