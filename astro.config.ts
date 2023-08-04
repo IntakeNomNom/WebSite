@@ -9,6 +9,7 @@ import worker from "astrojs-service-worker";
 export default defineConfig({
 	srcDir: "./Source",
 	publicDir: "./Public",
+	outDir: "./Build",
 	site: "https://intakenomnom.com",
 	experimental: {
 		assets: true,
