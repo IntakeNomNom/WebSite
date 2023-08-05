@@ -1,6 +1,6 @@
 import { initializeApp } from "firebase/app";
 
-const firebaseConfig = {
+initializeApp({
 	apiKey: "AIzaSyDpn058kd0BegNgWJQfu4-Ic3uPcxOo8Ds",
 	authDomain: "intakenomnom.firebaseapp.com",
 	projectId: "intakenomnom",
@@ -8,6 +8,4 @@ const firebaseConfig = {
 	messagingSenderId: "202279542282",
 	appId: "1:202279542282:web:bf1170d8ad82adca2f49f3",
 	measurementId: "G-26MC2VW3GM",
-};
-
-initializeApp(firebaseConfig);
+});
