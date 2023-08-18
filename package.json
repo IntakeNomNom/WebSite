@@ -2,11 +2,6 @@
 	"name": "intakenomnom-web",
 	"version": "0.0.1",
 	"private": false,
-	"description": "📄 Starter template for AstroJS.",
-	"keywords": [
-		"astro",
-		"starter"
-	],
 	"homepage": "https://github.com/intakenomnom/intakenomnom.com#readme",
 	"bugs": {
 		"url": "https://github.com/intakenomnom/intakenomnom.com/issues"
