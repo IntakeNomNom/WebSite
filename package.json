@@ -26,15 +26,11 @@
 		"@tailwindcss/aspect-ratio": "0.4.2",
 		"@tailwindcss/forms": "0.5.6",
 		"@tailwindcss/typography": "0.5.9",
-<<<<<<< HEAD
-		"astro": "3.0.0",
-=======
-		"astro": "2.10.15",
->>>>>>> a2972f9be42d28a1e63790777c01c9144edca152
+		"astro": "3.0.3",
 		"astro-compress": "2.0.14",
 		"astro-critters": "2.0.11",
 		"astro-rome": "2.0.8",
-		"astrojs-service-worker": "1.0.0",
+		"astrojs-service-worker": "1.1.0",
 		"autoprefixer": "10.4.15",
 		"cssnano": "6.0.1",
 		"cssnano-preset-advanced": "6.0.1",
