@@ -11,10 +11,6 @@ export default defineConfig({
 	publicDir: "./Public",
 	outDir: "./Target",
 	site: "https://intakenomnom.com",
-	experimental: {
-		assets: true,
-		viewTransitions: true,
-	},
 	compressHTML: true,
 	integrations: [
 		import.meta.env.MODE === "production" ? Worker() : null,
