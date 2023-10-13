@@ -9,4 +9,3 @@ initializeApp({
 	appId: "1:202279542282:web:bf1170d8ad82adca2f49f3",
 	measurementId: "G-26MC2VW3GM",
 });
-
