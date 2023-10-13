@@ -1,4 +1,6 @@
-(await import("firebase/app")).initializeApp({
+import { initializeApp } from "firebase/app";
+
+initializeApp({
 	apiKey: "AIzaSyDpn058kd0BegNgWJQfu4-Ic3uPcxOo8Ds",
 	authDomain: "intakenomnom.firebaseapp.com",
 	projectId: "intakenomnom",
@@ -8,4 +10,3 @@
 	measurementId: "G-26MC2VW3GM",
 });
 
-export {};
