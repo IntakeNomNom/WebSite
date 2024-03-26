@@ -2,19 +2,19 @@
 	"name": "@website/intakenomnom_nikolahristov_tech",
 	"version": "0.0.1",
 	"private": false,
-	"homepage": "HTTPS://GitHub.Com/intakenomnom/Website#readme",
+	"homepage": "https://github.com/intakenomnom/Website#readme",
 	"bugs": {
-		"url": "HTTPS://GitHub.Com/intakenomnom/Website/issues"
+		"url": "https://github.com/intakenomnom/Website/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+HTTPS://GitHub.Com/intakenomnom/Website.git"
+		"url": "git+https://github.com/intakenomnom/Website.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
 		"name": "Nikola R. Hristov",
 		"email": "Nikola@Playform.Cloud",
-		"url": "HTTPS://NikolaHristov.Tech"
+		"url": "https://nikolahristov.tech"
 	},
 	"scripts": {
 		"prepublishOnly": "astro build",
