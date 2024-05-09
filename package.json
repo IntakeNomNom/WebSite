@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+HTTPS://github.com/intakenomnom/Website.git"
+		"url": "git+https://github.com/intakenomnom/Website.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
