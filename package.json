@@ -2,9 +2,9 @@
 	"name": "@website/intakenomnom_nikolahristov_tech",
 	"version": "0.0.1",
 	"private": true,
-	"homepage": "HTTPS://GitHub.Com/intakenomnom/Website#readme",
+	"homepage": "https://GitHub.Com/intakenomnom/Website#readme",
 	"bugs": {
-		"url": "HTTPS://GitHub.Com/intakenomnom/Website/issues"
+		"url": "https://GitHub.Com/intakenomnom/Website/issues"
 	},
 	"repository": {
 		"type": "git",
@@ -14,7 +14,7 @@
 	"author": {
 		"name": "Source ✍🏻 Open 👐🏻",
 		"email": "Source/Open@PlayForm.Cloud",
-		"url": "HTTPS://PlayForm.Cloud"
+		"url": "https://PlayForm.Cloud"
 	},
 	"scripts": {
 		"Run": "astro dev --host",

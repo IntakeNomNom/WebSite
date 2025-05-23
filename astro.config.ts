@@ -6,7 +6,7 @@ export default defineConfig({
 	srcDir: "./Source",
 	publicDir: "./Public",
 	outDir: "./Target",
-	site: "HTTPS://IntakeNomNom.Com",
+	site: "https://IntakeNomNom.Com",
 	compressHTML: true,
 	prefetch: {
 		defaultStrategy: "hover",

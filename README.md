@@ -2,4 +2,4 @@
 
 IntakeNomNom.com main website.
 
-[intakenomnom.com]: HTTPS://intakenomnom.com
+[intakenomnom.com]: https://intakenomnom.com
